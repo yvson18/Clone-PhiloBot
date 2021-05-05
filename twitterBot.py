@@ -25,12 +25,12 @@ def frase_filtrada(frase):
 
 
 
-consumer_key = "N8E2mQgqM53VGDpGVZZ6vLozV"
-consumer_secret = "O1no11MKOGq5zcUVi8ru4MXWtSyqnrWGBxRSvMkzJU6JY7LbLa"
+consumer_key = ""
+consumer_secret = ""
 
-access_token = "1367106253655314432-rb8SGaykgI09OpPeAU5ri7tbTkOjL1"
+access_token = ""
 
-access_token_secret = "1P9gQ7cKSx7KfRNagnQJjdFkjatAfyLvne7uAZca63Mdl"
+access_token_secret = ""
 
 
 twitter = Twython(consumer_key,consumer_secret,access_token,access_token_secret)
